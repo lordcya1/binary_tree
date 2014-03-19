@@ -11,3 +11,6 @@ data = json.loads(json_data)
 #print data['name']
 print "--------------------------------------------------------------------"
 print data['children'][0]
+
+
+#///////ddd
